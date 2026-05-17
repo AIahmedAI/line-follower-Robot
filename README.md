@@ -39,5 +39,18 @@ The robot is powered by dual 18650 Li-ion batteries and controlled via an **L298
 
 ### Authors
 Team Project – Faculty of Navigation Sciences & Space Technology, Beni-Suef University  
-Course: Robotics SNS541  
+Course: Robotics SNS541 
+
+Team Members
+.Ahmed Mohamed Galal Mehana
+.Ahmed Abd El-Raheem Nour El-Dien Ebied
+.Ahmed Mohamed Mohamed Rezk
+.Ahmed Atef Fawzy Abo Alhassan
+.Badr Mohamed Abd El-Ghany Nassar
+.David Elkess Mousa Gerges Ayoub
+.Ziad Ahmed Mohammed Sayed Ahmed
+.Abdelshafy Mohamed Elsyed Adel Ammar
+.Ali Mohie Eldien Mohamed Skran
+.Logain Ashraf Mansour Mohamed
+
 Submission Date: 17/5/2026
